@@ -1,0 +1,24 @@
+*{
+    text-align: center;
+    border-width: thin;
+    padding: 10px;
+}.farm{
+    display: inline-block;
+    margin: 25px;
+    padding: 6px;
+}
+.cave{
+    display: inline-block;
+    margin: 25px;
+    padding: 6px;
+}
+.house{
+    display: inline-block;
+    margin: 25px;
+    padding: 6px;
+}
+.casino{
+    display: inline-block;
+    margin: 25px;
+    padding: 6px;
+}
